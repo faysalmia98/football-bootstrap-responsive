@@ -1,0 +1,31 @@
+.football-nav {
+    background-color: #2315e9;
+}
+.footbal-banner {
+    background-color: #2315e9;
+    height: 100vh;
+}
+.footbal-banner h1 {
+    font-size: 70px;
+}
+img {
+    max-width: 100%;
+}
+.football-btn-login,
+.football-watch-btn {
+    background-color: #d90a55;
+    color: #ffffff;
+    padding: 5px 20px;
+}
+.football-btn-login img {
+    width: 30px;
+}
+footer {
+    height: 300px;
+}
+.footer-logo img {
+    width: 300px;
+}
+.footer-social-icon img {
+    width: 30px;
+}
